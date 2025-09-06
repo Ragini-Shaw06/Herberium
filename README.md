@@ -10,6 +10,18 @@ The platform is designed to provide an interactive experience for users to explo
 - Fully responsive design (mobile-first, then desktop).  
 - Smooth animations and transitions on scrolling.  
 - Includes **dark and light mode** toggle.  
-- Compatible with all modern browsers and devices with a clean, user-friendly interface. 
+- Compatible with all modern browsers and devices with a clean, user-friendly interface.
+
+### Technologies Used 
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+
+### Contributing  
+Contributions are welcome!  
+Please create a pull request or open an issue for any improvements or suggestions.  
+
+### Contact  
+**Email:** raginishaw0607@gmail.com 
 
 ![Virtual Herbal Garden](/preview.png)
